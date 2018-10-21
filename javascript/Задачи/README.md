@@ -17,3 +17,22 @@ for (var i = 0; i < 10; i++) {
 ```
 
 <a href="https://github.com/kyusupov33/vanilla-js/blob/master/javascript/Задачи/Решения/3.md">Решение</a>
+
+4. Реализовать функцию f: ```f(2, 3) -> 5```, при вызове f(2)(3), тоже вернет 5
+
+<a href="https://github.com/kyusupov33/vanilla-js/blob/master/javascript/Задачи/Решения/4.md">Решение</a>
+
+4.1. ```f(1)(2)(3)() -> 6, f(0)(3)(1)(5)() -> 8```
+
+<a href="https://github.com/kyusupov33/vanilla-js/blob/master/javascript/Задачи/Решения/4.1.md">Решение</a>
+
+4.2. Реализовать функцию, которая возвращает результаты 
+
+```
+foo(1)(2)(3) -> 6
+foo(1)(2)(3)(4) -> 10
+foo(-1)(2)(3)(4)(7) -> 15
+foo(1)(2)(3)...(n) вернет результатом сумму 1+2+3...+n
+```
+
+<a href="https://github.com/kyusupov33/vanilla-js/blob/master/javascript/Задачи/Решения/4.2.md">Решение</a>
