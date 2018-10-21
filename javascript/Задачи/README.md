@@ -40,3 +40,7 @@ foo(1)(2)(3)...(n) вернет результатом сумму 1+2+3...+n
 4.3. `foo(1)(2)(3)()() + 10`
 
 <a href="https://github.com/kyusupov33/vanilla-js/blob/master/javascript/Задачи/Решения/4.3.md">Решение</a>
+
+5. Сортировка пузырьком
+
+<a href="https://github.com/kyusupov33/vanilla-js/blob/master/javascript/Задачи/Решения/5.md">Решение</a>
