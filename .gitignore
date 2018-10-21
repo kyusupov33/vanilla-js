@@ -1,0 +1,26 @@
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+*.iml
+.settings/
+*.sublime-workspace
+*.bak
+/builds
+/dist-integration
+/dist
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+/storybook-static
+/yarn-error.log
+.ng_pkg_build/
+package-lock.json
